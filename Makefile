@@ -7,4 +7,4 @@ OBJS = proj2.o
 $(EXEC): $(OBJS)
 
 clean:
-	rm $(EXEC) $(OBJS)
+	rm $(EXEC) $(OBJS) proj2.out
